@@ -9,5 +9,6 @@ public class Main{
 
         System.out.println("magia.getcategoria "+ magia.getCategoria());
         System.out.println("qualquer coisa "+rachel.getPoderTotal());
+        System.out.println("Eu te amo");
     }
 } 
